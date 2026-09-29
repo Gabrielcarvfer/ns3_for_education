@@ -1,2 +1,7 @@
 /.ipynb_checkpoints/
 /.idea/
+/ns-3-dev
+/oidn-*/
+/*.pcap
+/audio_out.wav
+/video_out.avi
